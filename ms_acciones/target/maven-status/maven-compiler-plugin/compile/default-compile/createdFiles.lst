@@ -1,0 +1,4 @@
+ar\edu\utn\frc\ms_acciones\controller\AccionesController.class
+ar\edu\utn\frc\ms_acciones\service\AccionesService.class
+ar\edu\utn\frc\ms_acciones\MsAccionesApplication.class
+ar\edu\utn\frc\ms_acciones\dto\AccionResponse.class
