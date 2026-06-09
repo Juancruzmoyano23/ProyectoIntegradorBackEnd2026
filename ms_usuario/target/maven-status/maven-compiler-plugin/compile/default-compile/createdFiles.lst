@@ -1,0 +1,9 @@
+ar\edu\utn\frc\ms_usuario\dto\UsuarioResponse.class
+ar\edu\utn\frc\ms_usuario\MsUsuarioApplication.class
+ar\edu\utn\frc\ms_usuario\repository\UsuarioRepository.class
+ar\edu\utn\frc\ms_usuario\entity\Usuario.class
+ar\edu\utn\frc\ms_usuario\service\UsuarioService.class
+ar\edu\utn\frc\ms_usuario\controller\UsuarioController.class
+ar\edu\utn\frc\ms_usuario\dto\UsuarioRequest.class
+ar\edu\utn\frc\ms_usuario\entity\Usuario$Rol.class
+ar\edu\utn\frc\ms_usuario\entity\Usuario$UsuarioBuilder.class

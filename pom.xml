@@ -12,7 +12,7 @@
     <modules>
         <module>ApiGateway</module>
         <module>Acciones</module>
-        <module>Usuarios</module>
+        <module>Usuario</module>
         <module>Portafolio</module>
         <module>Orden</module>
     </modules>
